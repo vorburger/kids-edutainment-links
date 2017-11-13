@@ -4,11 +4,11 @@ All sites linked here are FREE to use:
 
 ## In English, Français, Deutsch, Italiano, Español etc.
 
+* [Code.org](https://code.org)
 * [Scratch](https://scratch.mit.edu)
 * [ScratchJr](http://www.scratchjr.org)
 * [KhanAcademy](https://www.khanacademy.org)
 * [DuoLingo](https://www.duolingo.com)
-
 
 ## Only in English 
 
@@ -17,7 +17,12 @@ All sites linked here are FREE to use:
 * [TEDEd](https://ed.ted.com)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 
-## Hardware
+### Programming
+
+* [AppInventor](http://appinventor.mit.edu/explore/)
+* [Unity3D](https://unity3d.com)
+
+### Hardware
 
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
 * [Thymio](https://www.thymio.org)
