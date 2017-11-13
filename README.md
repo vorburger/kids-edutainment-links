@@ -16,6 +16,7 @@ All sites linked here are FREE to use:
 
 * [TEDEd](https://ed.ted.com)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+* [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 
 ### Programming
 
