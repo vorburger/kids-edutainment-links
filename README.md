@@ -2,7 +2,7 @@
 
 All sites linked here are FREE to use:
 
-## In English, Français, Deutsch, Italiano, Español etc.
+## In English, Français, Deutsch, ...
 
 * [Code.org](https://code.org)
 * [Scratch](https://scratch.mit.edu)
@@ -28,6 +28,11 @@ All sites linked here are FREE to use:
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
 * [Thymio](https://www.thymio.org)
 * [littleBits](http://littlebits.cc) _(US only?)_
+
+# Local Events
+## Lausanne, Switzerland 
+* [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
+* [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
 
 ## Do you know more links for this page?
 
