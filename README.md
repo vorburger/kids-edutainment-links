@@ -7,7 +7,7 @@ All sites linked here are FREE to use:
 * [Code.org](https://code.org)
 * [Scratch](https://scratch.mit.edu)
 * [ScratchJr](http://www.scratchjr.org)
-* [KhanAcademy](https://www.khanacademy.org)
+* [KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org))
 * [DuoLingo](https://www.duolingo.com)
 
 ## Only in English 
