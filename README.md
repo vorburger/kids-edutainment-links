@@ -6,7 +6,7 @@ All sites linked here are FREE to use:
 
 * [Code.org](https://code.org)
 * [Scratch](https://scratch.mit.edu)
-* [ScratchJr](http://www.scratchjr.org)
+* [ScratchJr](http://www.scratchjr.org) App
 * [KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org))
 * [DuoLingo](https://www.duolingo.com)
 
@@ -29,6 +29,10 @@ All sites linked here are FREE to use:
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
 * [Thymio](https://www.thymio.org)
 * [littleBits](http://littlebits.cc) _(US only?)_
+
+### Apps
+
+* [LightBot](http://lightbot.com) App
 
 # Local Events
 ## Lausanne, Switzerland 
