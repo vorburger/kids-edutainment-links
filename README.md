@@ -25,6 +25,7 @@ All sites linked here are FREE to use:
 
 ### Hardware
 
+* [MakeyMakey](https://www.makeymakey.com)
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
 * [Thymio](https://www.thymio.org)
 * [littleBits](http://littlebits.cc) _(US only?)_
@@ -33,6 +34,7 @@ All sites linked here are FREE to use:
 ## Lausanne, Switzerland 
 * [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
+* [ScratchDay.ch](http://scratchday.ch) et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/)
 
 ## Do you know more links for this page?
 
