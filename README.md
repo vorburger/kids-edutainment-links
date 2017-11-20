@@ -21,6 +21,8 @@ All sites linked here are FREE to use:
 ### Programming
 
 * [AppInventor](http://appinventor.mit.edu/explore/)
+* [Gamefroot](http://gamefroot.com)
+* [Alice](http://www.alice.org)
 * [Unity3D](https://unity3d.com)
 
 ### Hardware
