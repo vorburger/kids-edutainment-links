@@ -15,8 +15,8 @@ All sites linked here are FREE to use:
 ### Video Channels
 
 #### EDUtainement
-* [ASAPscience](https://www.youtube.com/user/AsapSCIENCE)
 * [TEDEd](https://ed.ted.com)
+* [ASAPscience](https://www.youtube.com/user/AsapSCIENCE)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 * [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 * [Life noggin](https://www.youtube.com/user/lifenoggin)
