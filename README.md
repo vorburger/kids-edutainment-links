@@ -19,7 +19,9 @@ All sites linked here are FREE to use:
 
 * [TEDEd](https://ed.ted.com)
 * [ASAPscience](https://www.youtube.com/user/AsapSCIENCE)
+* [CrashCourse](https://www.youtube.com/user/crashcourse)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+* [SciShow](https://www.youtube.com/user/scishow)
 * [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 * [Life noggin](https://www.youtube.com/user/lifenoggin)
 * [It's okay to be smart](https://www.youtube.com/user/itsokaytobesmart)
@@ -36,8 +38,9 @@ All sites linked here are FREE to use:
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
 * [Made with Code](https://www.madewithcode.com)
 * [Gamefroot](http://gamefroot.com)
-* [RobotMagic](http://robotmagic.org)
+* [CodeMonkey](https://www.playcodemonkey.com)
 * [Alice](http://www.alice.org)
+* [RobotMagic](http://robotmagic.org)
 * [Unity3D](https://unity3d.com)
 
 ### Hardware
@@ -49,6 +52,7 @@ All sites linked here are FREE to use:
 * [littleBits](http://littlebits.cc)
 * [micro:bit](http://microbit.org)
 * [Chibitronics](https://chibitronics.com)
+* [Build Piper](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
 * [Code Bug](https://www.codebug.org.uk)
 
 #### Robots
