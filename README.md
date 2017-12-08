@@ -15,6 +15,7 @@ All sites linked here are FREE to use:
 ### Video Channels
 
 #### EDUtainement
+
 * [TEDEd](https://ed.ted.com)
 * [ASAPscience](https://www.youtube.com/user/AsapSCIENCE)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
@@ -23,8 +24,8 @@ All sites linked here are FREE to use:
 * [It's okay to be smart](https://www.youtube.com/user/itsokaytobesmart)
 * [the infographic show](https://www.youtube.com/user/TheInfographicsShow)
 
-
 #### eduTAINEMENT
+
 * [Game theorist](https://www.youtube.com/user/MatthewPatrick13)
 * [Film theorist](https://www.youtube.com/user/FilmTheorists)
 * [Play noggin](https://www.youtube.com/channel/UC5UEdeW8wD2t2KQ32FtQL5w)
@@ -38,10 +39,20 @@ All sites linked here are FREE to use:
 
 ### Hardware
 
-* [MakeyMakey](https://www.makeymakey.com)
+#### Kits
+
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
+* [MakeyMakey](https://www.makeymakey.com)
+* [littleBits](http://littlebits.cc)
+* [micro:bit](http://microbit.org)
+* [Chibitronics](https://chibitronics.com)
+* [Code Bug](https://www.codebug.org.uk)
+
+#### Robots
+
 * [Thymio](https://www.thymio.org)
-* [littleBits](http://littlebits.cc) _(US only?)_
+* [Dash by Wonder Workshop](https://www.makewonder.de)
+* [Ozobot by bit/evo](http://ozoblockly.com)
 
 ### Apps
 
