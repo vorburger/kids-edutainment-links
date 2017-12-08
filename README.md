@@ -17,6 +17,14 @@ All sites linked here are FREE to use:
 * [TEDEd](https://ed.ted.com)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 * [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
+* [ASAPscience](https://www.youtube.com/user/AsapSCIENCE)
+* [itsokaytobesmart](https://www.youtube.com/user/itsokaytobesmart)
+* [sports](https://www.youtube.com/watch?v=UuSf3ZYqbeA)
+* [Game theory](https://www.youtube.com/results?search_query=game+theory)
+* [Film theory](https://www.youtube.com/user/FilmTheorists)
+* [Life noggin](https://www.youtube.com/user/lifenoggin)
+* [Play noggin](https://www.youtube.com/channel/UC5UEdeW8wD2t2KQ32FtQL5w)
+* [the infographic show](https://www.youtube.com/user/TheInfographicsShow)
 
 ### Programming
 
