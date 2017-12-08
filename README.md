@@ -14,9 +14,20 @@ All sites linked here are FREE to use:
 
 ### Video Channels
 
+#### EDUtainement
 * [TEDEd](https://ed.ted.com)
+* [ASAPscience](https://www.youtube.com/user/AsapSCIENCE)
 * [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 * [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
+* [Life noggin](https://www.youtube.com/user/lifenoggin)
+* [It's okay to be smart](https://www.youtube.com/user/itsokaytobesmart)
+* [the infographic show](https://www.youtube.com/user/TheInfographicsShow)
+
+
+#### eduTAINEMENT
+* [Game theorist](https://www.youtube.com/user/MatthewPatrick13)
+* [Film theorist](https://www.youtube.com/user/FilmTheorists)
+* [Play noggin](https://www.youtube.com/channel/UC5UEdeW8wD2t2KQ32FtQL5w)
 
 ### Programming
 
