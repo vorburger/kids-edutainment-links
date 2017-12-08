@@ -9,6 +9,7 @@ All sites linked here are FREE to use:
 * [ScratchJr](http://www.scratchjr.org) App
 * [KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org))
 * [DuoLingo](https://www.duolingo.com)
+* [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
 ## Only in English 
 
@@ -22,7 +23,7 @@ All sites linked here are FREE to use:
 * [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 * [Life noggin](https://www.youtube.com/user/lifenoggin)
 * [It's okay to be smart](https://www.youtube.com/user/itsokaytobesmart)
-* [the infographic show](https://www.youtube.com/user/TheInfographicsShow)
+* [The infographic show](https://www.youtube.com/user/TheInfographicsShow)
 
 #### eduTAINEMENT
 
@@ -30,10 +31,12 @@ All sites linked here are FREE to use:
 * [Film theorist](https://www.youtube.com/user/FilmTheorists)
 * [Play noggin](https://www.youtube.com/channel/UC5UEdeW8wD2t2KQ32FtQL5w)
 
-### Programming
+### Make Computers do things for you (AKA "programming")
 
-* [AppInventor](http://appinventor.mit.edu/explore/)
+* [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
+* [Made with Code](https://www.madewithcode.com)
 * [Gamefroot](http://gamefroot.com)
+* [RobotMagic](http://robotmagic.org)
 * [Alice](http://www.alice.org)
 * [Unity3D](https://unity3d.com)
 
@@ -57,6 +60,7 @@ All sites linked here are FREE to use:
 ### Apps
 
 * [LightBot](http://lightbot.com) App
+* [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
 
 # Local Events
 ## Lausanne, Switzerland 
