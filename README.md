@@ -60,6 +60,8 @@ All sites linked here are FREE to use:
 * [Thymio](https://www.thymio.org)
 * [Dash by Wonder Workshop](https://www.makewonder.de)
 * [Ozobot by bit/evo](http://ozoblockly.com)
+* [Robobox](https://www.robobox.io)
+* [Sphero](http://www.sphero.com)
 
 ### Apps
 
