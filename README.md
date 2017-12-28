@@ -1,6 +1,6 @@
 # Great sites for kids!
 
-All sites linked here are FREE to use:
+All sites linked here are FREE to use (we list [non-free online courses on a separate page](paid-courses.md)):
 
 ## In English, Français, Deutsch, ...
 
