@@ -17,8 +17,21 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 ## English 
 
-### Sites
-* [Simple English Wikipedia](https://simple.wikipedia.org)
+### Make Computers do things (AKA "programming")
+
+* [CodeCombat](https://codecombat.com/play)
+* [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
+* [Tynker](https://www.tynker.com/hour-of-code/)
+* [Made with Code](https://www.madewithcode.com)
+* [Gamefroot](http://gamefroot.com)
+* [CodeMonkey](https://www.playcodemonkey.com)
+* [CodecAdemy](https://www.codecademy.com)
+* [Alice](http://www.alice.org)
+* [Greenfoot](https://www.greenfoot.org/overview)
+* [RobotMagic](http://robotmagic.org)
+* [Unity3D](https://unity3d.com)
+* [Kodu](https://www.kodugamelab.com)
+* [Gamestar Mechanic](http://gamestarmechanic.com)
 
 ### Video Channels
 
@@ -40,22 +53,8 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Film theorist](https://www.youtube.com/user/FilmTheorists)
 * [Play noggin](https://www.youtube.com/channel/UC5UEdeW8wD2t2KQ32FtQL5w)
 
-### Make Computers do things for you (AKA "programming")
-
-* [CodeCombat](https://codecombat.com/play)
-* [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
-* [Tynker](https://www.tynker.com/hour-of-code/)
-* [Made with Code](https://www.madewithcode.com)
-* [Gamefroot](http://gamefroot.com)
-* [CodeMonkey](https://www.playcodemonkey.com)
-* [codecademy](https://www.codecademy.com)
-* [Alice](http://www.alice.org)
-* [Greenfoot](https://www.greenfoot.org/overview)
-* [RobotMagic](http://robotmagic.org)
-* [Unity3D](https://unity3d.com)
-* [Kodu](https://www.kodugamelab.com)
-* [Gamestar Mechanic](http://gamestarmechanic.com)
-
+### Sites
+* [Simple English Wikipedia](https://simple.wikipedia.org)
 
 ### Hardware
 
