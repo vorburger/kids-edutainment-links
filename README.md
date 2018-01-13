@@ -11,7 +11,14 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [DuoLingo](https://www.duolingo.com)
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
-## Only in English 
+## French
+* [Wikimini](https://fr.wikimini.org/wiki/Accueil)
+* [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil)
+
+## English 
+
+### Sites
+* [Simple English Wikipedia](https://simple.wikipedia.org)
 
 ### Video Channels
 
@@ -43,6 +50,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [CodeMonkey](https://www.playcodemonkey.com)
 * [codecademy](https://www.codecademy.com)
 * [Alice](http://www.alice.org)
+* [Greenfoot](https://www.greenfoot.org/overview)
 * [RobotMagic](http://robotmagic.org)
 * [Unity3D](https://unity3d.com)
 * [Kodu](https://www.kodugamelab.com)
@@ -77,12 +85,18 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 ### Both iOS & Android
 * [ScratchJr](http://www.scratchjr.org)
 * [LightBot](http://lightbot.com) App
+* [GeoGebra](https://www.geogebra.org) Geometry, also for PC/Mac
 
 ### Android
 * [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
 
 ### iOS
+* [Algodoo](http://www.algodoo.com/what-is-it/), also for PC/Mac
 * [Hopscotch](https://www.gethopscotch.com)
+
+### PC
+* [GCompris](http://gcompris.net) for smaller kids, in many languages, also on Android
+
 
 # Local Events
 ## Lausanne, Switzerland 
