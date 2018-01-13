@@ -35,13 +35,19 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 ### Make Computers do things for you (AKA "programming")
 
+* [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
+* [Tynker](https://www.tynker.com/hour-of-code/)
 * [Made with Code](https://www.madewithcode.com)
 * [Gamefroot](http://gamefroot.com)
 * [CodeMonkey](https://www.playcodemonkey.com)
+* [codecademy](https://www.codecademy.com)
 * [Alice](http://www.alice.org)
 * [RobotMagic](http://robotmagic.org)
 * [Unity3D](https://unity3d.com)
+* [Kodu](https://www.kodugamelab.com)
+* [Gamestar Mechanic](http://gamestarmechanic.com)
+
 
 ### Hardware
 
@@ -51,6 +57,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [MakeyMakey](https://www.makeymakey.com)
 * [littleBits](http://littlebits.cc)
 * [micro:bit](http://microbit.org)
+* [Technology Will Save Us](https://www.techwillsaveus.com)
 * [Chibitronics](https://chibitronics.com)
 * [Build Piper](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
 * [Code Bug](https://www.codebug.org.uk)
@@ -58,15 +65,24 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 #### Robots
 
 * [Thymio](https://www.thymio.org)
+* [Cubetto](https://www.primotoys.com)
 * [Dash by Wonder Workshop](https://www.makewonder.de)
 * [Ozobot by bit/evo](http://ozoblockly.com)
 * [Robobox](https://www.robobox.io)
 * [Sphero](http://www.sphero.com)
+* [Hummingbird Kit](https://www.hummingbirdkit.com)
 
 ### Apps
 
+### Both iOS & Android
+* [ScratchJr](http://www.scratchjr.org)
 * [LightBot](http://lightbot.com) App
+
+### Android
 * [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
+
+### iOS
+* [Hopscotch](https://www.gethopscotch.com)
 
 # Local Events
 ## Lausanne, Switzerland 
