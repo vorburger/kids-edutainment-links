@@ -30,9 +30,10 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Alice](http://www.alice.org)
 * [Greenfoot](https://www.greenfoot.org/overview)
 * [RobotMagic](http://robotmagic.org)
-* [Unity3D](https://unity3d.com)
+* [Godot](https://godotengine.org), with tutorials from [KidsCanCode](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5) or [GDquest](http://gdquest.com) (Godot is like [Unity3D](https://unity3d.com) but Open Source)
 * [Kodu](https://www.kodugamelab.com)
 * [Gamestar Mechanic](http://gamestarmechanic.com)
+* [Pygame](https://www.pygame.org) with tutorials from [KidsCanCode](http://kidscancode.org/lessons/)
 
 ### Video Channels
 
