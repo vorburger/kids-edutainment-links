@@ -104,7 +104,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 ## Lausanne, Switzerland 
 * [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
-* [ScratchDay.ch](http://scratchday.ch) et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/)
+* [ScratchDay.ch](http://scratchday.ch) et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
 
 ## Do you know more links for this page?
 
