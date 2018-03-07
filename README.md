@@ -15,6 +15,17 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Wikimini](https://fr.wikimini.org/wiki/Accueil)
 * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil)
 
+### Vidéos
+* [Top Factory](https://www.youtube.com/channel/UCWBqawES1a7WXRJiyjS37EA)
+* [La Tronche en Biais](https://www.youtube.com/channel/UCq-8pBMM3I40QlrhM9ExXJQ)
+* [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A) — Math & Science avec Lê
+* [Science étonnante](https://www.youtube.com/user/ScienceEtonnante)
+* [Mickaël Launay](https://www.youtube.com/user/Micmaths) — Micmath
+* [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
+* [Balade Mentale](https://www.youtube.com/channel/UCS_7tplUgzJG4DhA16re5Yg)
+* [Dimension](https://www.youtube.com/channel/UCiw_8x43hludK0PhuN9AJGg)
+* [Stardust](https://www.youtube.com/channel/UCdL3UpiseRlvxXuORJjmqZw) - La Chaîne Espace 
+
 ## English 
 
 ### Make Computers do things (AKA "programming")
