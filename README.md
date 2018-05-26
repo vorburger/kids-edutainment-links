@@ -8,6 +8,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Scratch](https://scratch.mit.edu)
 * [ScratchJr](http://www.scratchjr.org) App
 * [KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org))
+* [Brilliant.org](https://brilliant.org/)
 * [DuoLingo](https://www.duolingo.com)
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
