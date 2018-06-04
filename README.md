@@ -47,6 +47,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Gamestar Mechanic](http://gamestarmechanic.com)
 * [Pygame](https://www.pygame.org) with tutorials from [KidsCanCode](http://kidscancode.org/lessons/)
 * [Google Code-in](https://codein.withgoogle.com) annual Dec/Jan coding contest for 13-17 yr olds, from Google, with prices!
+* [Git it](https://github.com/jlord/git-it-electron) (and the [patchwork](https://github.com/jlord/patchwork))
 
 ### Video Channels
 
