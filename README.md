@@ -84,6 +84,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Chibitronics](https://chibitronics.com)
 * [Build Piper](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
 * [Code Bug](https://www.codebug.org.uk)
+* [Kniwwelino](http://www.kniwwelino.lu)
 
 #### Robots
 
