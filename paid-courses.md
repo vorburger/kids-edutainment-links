@@ -5,6 +5,8 @@ We list [free sites on the main page](README.md), while these great sites requir
 * [YouthDigital](http://www.youthdigital.com): Learn Design, Code & Animate
 * [Team Treehouse](https://teamtreehouse.com)
 * [Tynker](https://www.tynker.com)
+* [Kano Computer & Coding Kits](https://kano.me)
+
 
 ## Do you know more links for this page?
 
