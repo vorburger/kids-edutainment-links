@@ -80,12 +80,12 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [MakeyMakey](https://www.makeymakey.com)
 * [littleBits](http://littlebits.cc)
 * [micro:bit](http://microbit.org)
-* [CodeBug](http://www.codebug.org.uk)
 * [Technology Will Save Us](https://www.techwillsaveus.com)
 * [Chibitronics](https://chibitronics.com)
 * [Build Piper](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
-* [Code Bug](https://www.codebug.org.uk)
+* [CodeBug](https://www.codebug.org.uk)
 * [Kniwwelino](http://www.kniwwelino.lu)
+* [LilyPad](https://www.sparkfun.com/categories/135)
 
 #### Robots
 
