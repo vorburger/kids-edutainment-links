@@ -115,6 +115,10 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 ### PC
 * [GCompris](http://gcompris.net) for smaller kids, in many languages, also on Android
 
+### How to get started in Open Source?
+* [Git Hub's Open Source Guides](https://opensource.guide)
+* Some projects [which Red Hat works on](https://community.redhat.com/software/) (and [on GH](https://redhatofficial.github.io/#!/main)) or [Trending](https://github.com/trending)
+* [Red Hat's open-source](https://www.redhat.com/en/open-source)
 
 # Local Events
 ## Lausanne, Switzerland 
