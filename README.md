@@ -87,6 +87,8 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Kniwwelino](http://www.kniwwelino.lu)
 * [Calliope](https://www.calliope.cc)
 * [LilyPad](https://www.sparkfun.com/categories/135)
+* [Circuit Playground Express](https://www.adafruit.com/product/3333)
+* [sino:bit](https://www.elecrow.com/sino-bit-v1-0.html)
 
 #### Robots
 
