@@ -82,8 +82,9 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [micro:bit](http://microbit.org)
 * [Technology Will Save Us](https://www.techwillsaveus.com)
 * [Chibitronics](https://chibitronics.com)
-* [Build Piper](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
-* [CodeBug](https://www.codebug.org.uk)
+* [Build Piper computer](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
+* [Kano computer](https://kano.me)
+* **[CodeBug](https://www.codebug.org.uk)**
 * [Kniwwelino](http://www.kniwwelino.lu)
 * [Calliope](https://www.calliope.cc)
 * [LilyPad](https://www.sparkfun.com/categories/135)
