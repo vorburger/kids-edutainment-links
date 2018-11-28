@@ -96,7 +96,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 * [Thymio](https://www.thymio.org)
 * [Cubetto](https://www.primotoys.com)
-* [Anki Cosmo] (https://www.anki.com/en-us/cozmo] 
+* [Anki Cosmo](https://www.anki.com/en-us/cozmo) 
 * [Dash by Wonder Workshop](https://www.makewonder.de)
 * [Ozobot by bit/evo](http://ozoblockly.com)
 * [Robobox](https://www.robobox.io)
