@@ -12,6 +12,9 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [DuoLingo](https://www.duolingo.com)
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
+## English only
+* [Prodigy](https://www.prodigygame.com)
+
 ## French
 * [Wikimini](https://fr.wikimini.org/wiki/Accueil)
 * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil)
