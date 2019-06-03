@@ -34,6 +34,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 ### Make Computers do things (AKA "programming")
 
+* [Grasshopper](https://grasshopper.codes)
 * [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
 * [Tynker](https://www.tynker.com/hour-of-code/)
