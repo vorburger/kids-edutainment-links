@@ -39,6 +39,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
 * [Tynker](https://www.tynker.com/hour-of-code/)
 * [Made with Code](https://www.madewithcode.com)
+* [Pencil Code](http://pencilcode.net)
 * [Gamefroot](http://gamefroot.com)
 * [CodeMonkey](https://www.playcodemonkey.com)
 * [CodecAdemy](https://www.codecademy.com)
