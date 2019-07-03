@@ -8,6 +8,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Scratch](https://scratch.mit.edu)
 * [ScratchJr](http://www.scratchjr.org) App
 * [KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org))
+* [Google CS First](https://csfirst.withgoogle.com)  ([FR](https://csfirst.withgoogle.com/s/fr/home), [DE](https://csfirst.withgoogle.com/s/de/home))
 * [Brilliant.org](https://brilliant.org/)
 * [DuoLingo](https://www.duolingo.com)
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
@@ -136,6 +137,13 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
 * [ScratchDay.ch](http://scratchday.ch) et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
 
-## Do you know more links for this page?
+## Zurich, Switzerland 
+* [Google Kids Summer Camp](https://events.withgoogle.com/google-kids-summer-camp/)
+
+# For Parents
+
+* [Google's Digital Wellbeing](https://wellbeing.google)
+
+# Do you know more links for this page?
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This page is maintained by a community of Open Source/Content volunteers who enjoy sharing their passion with kids.  You can be part of us - it's easy to [Edit this page on Git Hub and create a Pull Request](https://github.com/vorburger/kids-edutainment-links/edit/master/README.md) for review!
