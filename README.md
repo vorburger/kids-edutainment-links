@@ -109,6 +109,10 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Sphero](http://www.sphero.com)
 * [Hummingbird Kit](https://www.hummingbirdkit.com)
 
+### Educational Games
+
+* [Keep Talking and Nobody Explodes](https://keeptalkinggame.com)
+
 ### Apps
 
 ### Both iOS & Android
