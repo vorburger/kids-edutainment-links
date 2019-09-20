@@ -70,6 +70,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Life noggin](https://www.youtube.com/user/lifenoggin)
 * [It's okay to be smart](https://www.youtube.com/user/itsokaytobesmart)
 * [The infographic show](https://www.youtube.com/user/TheInfographicsShow)
+* [Nat and Friends](https://www.youtube.com/channel/UCf4AIjSwE-E2TggCPdm-z-A)
 
 #### eduTAINEMENT
 
@@ -110,6 +111,8 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Sphero](http://www.sphero.com)
 * [Hummingbird Kit](https://www.hummingbirdkit.com)
 
+or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
+
 ### Educational Games
 
 * [Keep Talking and Nobody Explodes](https://keeptalkinggame.com)
@@ -146,13 +149,22 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Common Sense Media](https://www.commonsensemedia.org)
 
 # Local Events
-## Lausanne, Switzerland 
+## Workshops
+### Lausanne, Switzerland 
 * [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
 * **[ScratchDay.ch](http://scratchday.ch)** et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
 
-## Zurich, Switzerland 
+### Zurich, Switzerland 
 * [Google Kids Summer Camp](https://events.withgoogle.com/google-kids-summer-camp/)
+
+## Competitions
+### Switzerland (National)
+* [Schweizer Jugend forscht](https://sjf.ch) Concours/Wettbewerb & Studienwochen
+* [Informatik Biber](https://informatik-biber.ch/)
+### International
+* [Google Science Fair](https://www.googlesciencefair.com/)
+
 
 # Do you know more links for this page?
 
