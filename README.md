@@ -1,20 +1,20 @@
 # Great sites for kids!
 
-All sites linked here are FREE to use (we list [non-free online courses on a separate page](paid-courses.md)):
+All sites linked here are FREE to use (we list [non-free online courses on a separate page](paid-courses.md)), and specifically for young children:  _(Older children, and parents, may instead be interested in e.g. Google's [Développez de nouvelles compétences adaptées à l'univers numérique](https://learndigital.withgoogle.com/atelierdigital-fr), [Neue Kompetenzen für die digitale Welt](https://learndigital.withgoogle.com/atelierdigital-de/courses), [Online courses](https://learndigital.withgoogle.com/digitalgarage/courses).)_
 
-## In English, Français, Deutsch, ...
+## In English, Français, Deutsch, Italiano ...
 
-* [Code.org](https://code.org)
-* [Scratch](https://scratch.mit.edu)
-* [ScratchJr](http://www.scratchjr.org) App
-* [KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org))
+* **[Code.org](https://code.org)**
+* **[Scratch](https://scratch.mit.edu)**
+* **[ScratchJr](http://www.scratchjr.org) App**
+* **[KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org)) ([DE](https://de.khanacademy.org/))**
 * [Google CS First](https://csfirst.withgoogle.com)  ([FR](https://csfirst.withgoogle.com/s/fr/home), [DE](https://csfirst.withgoogle.com/s/de/home))
-* [Brilliant.org](https://brilliant.org/)
 * [DuoLingo](https://www.duolingo.com)
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
 ## English only
 * [Prodigy](https://www.prodigygame.com)
+* [Brilliant.org](https://brilliant.org/)
 
 ## French
 * [Wikimini](https://fr.wikimini.org/wiki/Accueil)
@@ -35,11 +35,12 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 ### Make Computers do things (AKA "programming")
 
+* [Made with Code](https://www.madewithcode.com)
+* [Roblox](https://www.roblox.com)  ([Parent’s Guide](https://www.connectsafely.org/roblox/))
 * [Grasshopper](https://grasshopper.codes)
 * [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
 * [Tynker](https://www.tynker.com/hour-of-code/)
-* [Made with Code](https://www.madewithcode.com)
 * [Pencil Code](http://pencilcode.net)
 * [Gamefroot](http://gamefroot.com)
 * [CodeMonkey](https://www.playcodemonkey.com)
@@ -130,23 +131,28 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 ### PC
 * [GCompris](http://gcompris.net) for smaller kids, in many languages, also on Android
 
-### How to get started in Open Source?
+## How to get started in Open Source?
 * [Git Hub's Open Source Guides](https://opensource.guide)
 * Some projects [which Red Hat works on](https://community.redhat.com/software/) (and [on GH](https://redhatofficial.github.io/#!/main)) or [Trending](https://github.com/trending)
 * [Red Hat's open-source](https://www.redhat.com/en/open-source)
+
+# Related Guide For Parents
+
+* [Jeunes et médias](https://www.jeunesetmedias.ch/fr.html) & [Jugend und Medien](https://www.jugendundmedien.ch/de.html)
+* [Pro Juventute](https://medienprofis.projuventute.ch/Informationen-und-Tipps-fuer-E.3553.0.html)
+* [Google's Be Internet Awesome!](https://beinternetawesome.withgoogle.com/) _Helping kids be safe, confident explorers of the online world_ incl. **Explore [Interland](https://beinternetawesome.withgoogle.com/en_us/interland)**
+* [Google's Digital Wellbeing](https://wellbeing.google)
+* [ConnectSafely](https://www.connectsafely.org)
+* [Common Sense Media](https://www.commonsensemedia.org)
 
 # Local Events
 ## Lausanne, Switzerland 
 * [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
-* [ScratchDay.ch](http://scratchday.ch) et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
+* **[ScratchDay.ch](http://scratchday.ch)** et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
 
 ## Zurich, Switzerland 
 * [Google Kids Summer Camp](https://events.withgoogle.com/google-kids-summer-camp/)
-
-# For Parents
-
-* [Google's Digital Wellbeing](https://wellbeing.google)
 
 # Do you know more links for this page?
 
