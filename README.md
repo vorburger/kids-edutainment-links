@@ -139,6 +139,10 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 * Some projects [which Red Hat works on](https://community.redhat.com/software/) (and [on GH](https://redhatofficial.github.io/#!/main)) or [Trending](https://github.com/trending)
 * [Red Hat's open-source](https://www.redhat.com/en/open-source)
 
+## Various Guides
+
+* [Programming Guide For Video-Gamers](http://ithare.com/programming-guide-for-video-gamers/)
+
 # Related Guide For Parents
 
 * [Jeunes et médias](https://www.jeunesetmedias.ch/fr.html) & [Jugend und Medien](https://www.jugendundmedien.ch/de.html)
