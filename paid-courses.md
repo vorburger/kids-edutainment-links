@@ -2,6 +2,7 @@
 
 We list [free sites on the main page](README.md), while these great sites require paid subscription:
 
+* [CodeWizardsHQ](https://codewizardshq.com/): The leading online coding school for kids and teens ages 8-18.
 * [YouthDigital](http://www.youthdigital.com): Learn Design, Code & Animate
 * [Team Treehouse](https://teamtreehouse.com)
 * [Tynker](https://www.tynker.com)
