@@ -88,6 +88,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 #### Kits
 
+* [BBC Tynker Dr. Who HighFive Inventor Coding Kit](https://www.hifiveinventor.com)
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
 * [MakeyMakey](https://www.makeymakey.com)
 * [littleBits](http://littlebits.cc)
