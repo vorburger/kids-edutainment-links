@@ -88,11 +88,11 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 #### Kits
 
+* [micro:bit](http://microbit.org)
 * [BBC Tynker Dr. Who HighFive Inventor Coding Kit](https://www.hifiveinventor.com)
 * [LEGO WeDo](https://education.lego.com/en-us/elementary/shop/wedo-2)
 * [MakeyMakey](https://www.makeymakey.com)
 * [littleBits](http://littlebits.cc)
-* [micro:bit](http://microbit.org)
 * [Technology Will Save Us](https://www.techwillsaveus.com)
 * [Chibitronics](https://chibitronics.com)
 * [Build Piper computer](https://www.buildpiper.com) Build your own computer kit with Minecraft: Pi!
@@ -106,6 +106,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 #### Robots
 
+* [Maqueen](https://www.google.com/search?q=maqueen+robot&bm=shop): [Slides](https://docs.google.com/presentation/d/1h6KApcVX4ZyFf62owYpKdjbGSPbNN3afXM9Ksam5Jes/), [video](https://www.youtube.com/watch?v=saMZMFLlCQc) & [another](https://www.youtube.com/watch?v=yXb215lSdGA)
 * [Thymio](https://www.thymio.org)
 * [Cubetto](https://www.primotoys.com)
 * [Anki Cosmo](https://www.anki.com/en-us/cozmo) 
