@@ -22,6 +22,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil)
 
 ### Vidéos
+* [Physics Girl](https://youtube.com/c/physicsgirl)
 * [Top Factory](https://www.youtube.com/channel/UCWBqawES1a7WXRJiyjS37EA)
 * [La Tronche en Biais](https://www.youtube.com/channel/UCq-8pBMM3I40QlrhM9ExXJQ)
 * [Science4All](https://www.youtube.com/channel/UC0NCbj8CxzeCGIF6sODJ-7A) — Math & Science avec Lê
