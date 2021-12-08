@@ -122,6 +122,7 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 ### Educational Games
 
 * [Keep Talking and Nobody Explodes](https://keeptalkinggame.com)
+* [Shenzen I/O](https://www.zachtronics.com/shenzhen-io/)
 
 ### Apps
 
