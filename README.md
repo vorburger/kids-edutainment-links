@@ -42,7 +42,6 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Grasshopper](https://grasshopper.codes)
 * [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
-* [OverTheWire wargames](https://overthewire.org/wargames/), to learn hacking... ;-)
 * [Tynker](https://www.tynker.com/hour-of-code/)
 * [Snap!](https://snap.berkeley.edu) - like Scratch, but extensible with custom JavaScript
 * [Pencil Code](http://pencilcode.net)
@@ -60,6 +59,12 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Google Code-in](https://codein.withgoogle.com) annual Dec/Jan coding contest for 13-17 yr olds, from Google, with prices!
 * [Git it](https://github.com/jlord/git-it-electron) (and the [patchwork](https://github.com/jlord/patchwork))
 * [OASIS.learn.study /make Minecraft Scratch server](https://www.learn.study)
+
+### Hacking
+
+* [OverTheWire wargames](https://overthewire.org/wargames/), to learn hacking... ;-)
+* [rootz r00tz-web-intro](https://r00tz-web-intro.appspot.com/rootz)
+* [Khan Academy's Online data security](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security)
 
 ### Video Channels
 
