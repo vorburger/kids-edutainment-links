@@ -66,6 +66,22 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [rootz r00tz-web-intro](https://r00tz-web-intro.appspot.com/rootz)
 * [Khan Academy's Online data security](https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security)
 
+### News Websites
+
+* Kids friendly general news
+  * https://www.xyzanews.com 
+  * https://youngzine.org 
+  * https://newsforkids.net 
+  * https://teachingkidsnews.com 
+  * https://www.tweentribune.com 
+  * https://www.dogonews.com 
+  * https://www.washingtonpost.com/lifestyle/kidspost/ 
+  * https://www.timeforkids.com/families#pricing $ (timeedge.com)
+  * https://www.firstnews.co.uk (£)
+* Kids friendly science news
+  * https://kids.nationalgeographic.com 
+  * https://www.sciencenewsforstudents.org 
+
 ### Video Channels
 
 #### EDUtainement
