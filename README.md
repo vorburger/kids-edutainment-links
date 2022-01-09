@@ -69,18 +69,18 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 ### News Websites
 
 * Kids friendly general news
-  * https://www.xyzanews.com 
-  * https://youngzine.org 
-  * https://newsforkids.net 
-  * https://teachingkidsnews.com 
-  * https://www.tweentribune.com 
-  * https://www.dogonews.com 
-  * https://www.washingtonpost.com/lifestyle/kidspost/ 
-  * https://www.timeforkids.com/families#pricing $ (timeedge.com)
-  * https://www.firstnews.co.uk (£)
+  * [xyza](https://www.xyzanews.com)
+  * [YoungZine](https://youngzine.org)
+  * [News for Kids](https://newsforkids.net)
+  * [Teaching Kids News](https://teachingkidsnews.com)
+  * [Tween Tribune](https://www.tweentribune.com)
+  * [dogonews](https://www.dogonews.com)
+  * [WaPo's Kids Post](https://www.washingtonpost.com/lifestyle/kidspost/)
+  * [Time for Kids](https://www.timeforkids.com/families#pricing) $ (timeedge.com)
+  * [First News](https://www.firstnews.co.uk) UK (£)
 * Kids friendly science news
-  * https://kids.nationalgeographic.com 
-  * https://www.sciencenewsforstudents.org 
+  * [National Geographic for Kids](https://kids.nationalgeographic.com)
+  * [Science News for Students](https://www.sciencenewsforstudents.org)
 
 ### Video Channels
 
