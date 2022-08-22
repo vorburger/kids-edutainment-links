@@ -190,6 +190,7 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 * **[ScratchDay.ch](http://scratchday.ch)** et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
 
 ### Zurich, Switzerland 
+* [TechSpark Academy](https://techsparkacademy.ch)
 * [Google Kids Summer Camp](https://events.withgoogle.com/google-kids-summer-camp/)
 
 ## Competitions
