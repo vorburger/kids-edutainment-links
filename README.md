@@ -32,6 +32,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Balade Mentale](https://www.youtube.com/channel/UCS_7tplUgzJG4DhA16re5Yg)
 * [Dimension](https://www.youtube.com/channel/UCiw_8x43hludK0PhuN9AJGg)
 * [Stardust](https://www.youtube.com/channel/UCdL3UpiseRlvxXuORJjmqZw) - La Chaîne Espace 
+* [Europe Code Week](https://www.youtube.com/c/CodeweekEu/playlists)
 
 ## English 
 
