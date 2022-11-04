@@ -6,7 +6,8 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 * **[Code.org](https://code.org)**
 * **[Scratch](https://scratch.mit.edu)**
-* **[ScratchJr](http://www.scratchjr.org) App**
+* **[ScratchJr](http://www.scratchjr.org) App** (Android + Apple)
+* **[Swift Playgrounds](https://www.apple.com/swift/playgrounds/) App** (Apple only)
 * **[KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org)) ([DE](https://de.khanacademy.org/))**
 * [Schoolhouse](https://schoolhouse.world)
 * [Google CS First](https://csfirst.withgoogle.com)  ([FR](https://csfirst.withgoogle.com/s/fr/home), [DE](https://csfirst.withgoogle.com/s/de/home))
