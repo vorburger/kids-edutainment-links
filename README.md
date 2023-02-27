@@ -42,6 +42,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Made with Code](https://www.madewithcode.com)
 * [Roblox](https://www.roblox.com)  ([Parent’s Guide](https://www.connectsafely.org/roblox/))
 * [Grasshopper](https://grasshopper.codes)
+* [Mimo](https://mimo.org/)
 * [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
 * [Tynker](https://www.tynker.com/hour-of-code/)
