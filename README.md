@@ -41,7 +41,6 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 * [Made with Code](https://www.madewithcode.com)
 * [Roblox](https://www.roblox.com)  ([Parent’s Guide](https://www.connectsafely.org/roblox/))
-* [Grasshopper](https://grasshopper.codes)
 * [Mimo](https://mimo.org/)
 * [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
@@ -153,6 +152,7 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 ### Apps
 
 ### Both iOS & Android
+* [Castle](https://castle.xyz) Make games on your phone
 * [ScratchJr](http://www.scratchjr.org)
 * [LightBot](http://lightbot.com) App
 * [GeoGebra](https://www.geogebra.org) Geometry, also for PC/Mac
