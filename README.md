@@ -15,14 +15,17 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
 ## English only
+
 * [Prodigy](https://www.prodigygame.com)
 * [Brilliant.org](https://brilliant.org/)
 
 ## French
+
 * [Wikimini](https://fr.wikimini.org/wiki/Accueil)
 * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil)
 
 ### Vidéos
+
 * [Physics Girl](https://youtube.com/c/physicsgirl)
 * [Top Factory](https://www.youtube.com/channel/UCWBqawES1a7WXRJiyjS37EA)
 * [La Tronche en Biais](https://www.youtube.com/channel/UCq-8pBMM3I40QlrhM9ExXJQ)
@@ -32,10 +35,10 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
 * [Balade Mentale](https://www.youtube.com/channel/UCS_7tplUgzJG4DhA16re5Yg)
 * [Dimension](https://www.youtube.com/channel/UCiw_8x43hludK0PhuN9AJGg)
-* [Stardust](https://www.youtube.com/channel/UCdL3UpiseRlvxXuORJjmqZw) - La Chaîne Espace 
+* [Stardust](https://www.youtube.com/channel/UCdL3UpiseRlvxXuORJjmqZw) - La Chaîne Espace
 * [Europe Code Week](https://www.youtube.com/c/CodeweekEu/playlists)
 
-## English 
+## English
 
 ### Make Computers do things (AKA "programming")
 
@@ -107,6 +110,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Play noggin](https://www.youtube.com/channel/UC5UEdeW8wD2t2KQ32FtQL5w)
 
 ### Sites
+
 * [Simple English Wikipedia](https://simple.wikipedia.org)
 
 ### Hardware
@@ -135,7 +139,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Maqueen](https://www.google.com/search?q=maqueen+robot&bm=shop): [Slides](https://docs.google.com/presentation/d/1h6KApcVX4ZyFf62owYpKdjbGSPbNN3afXM9Ksam5Jes/), [video](https://www.youtube.com/watch?v=saMZMFLlCQc) & [another](https://www.youtube.com/watch?v=yXb215lSdGA)
 * [Thymio](https://www.thymio.org)
 * [Cubetto](https://www.primotoys.com)
-* [Anki Cosmo](https://www.anki.com/en-us/cozmo) 
+* [Anki Cosmo](https://www.anki.com/en-us/cozmo)
 * [Dash by Wonder Workshop](https://www.makewonder.de)
 * [Ozobot by bit/evo](http://ozoblockly.com)
 * [Robobox](https://www.robobox.io)
@@ -152,22 +156,27 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 ### Apps
 
 ### Both iOS & Android
+
 * [Castle](https://castle.xyz) Make games on your phone
 * [ScratchJr](http://www.scratchjr.org)
 * [LightBot](http://lightbot.com) App
 * [GeoGebra](https://www.geogebra.org) Geometry, also for PC/Mac
 
 ### Android
+
 * [Circuit Scramble](https://play.google.com/store/apps/details?id=com.Suborbital.CircuitScramble)
 
 ### iOS
+
 * [Algodoo](http://www.algodoo.com/what-is-it/), also for PC/Mac
 * [Hopscotch](https://www.gethopscotch.com)
 
 ### PC
+
 * [GCompris](http://gcompris.net) for smaller kids, in many languages, also on Android
 
 ## How to get started in Open Source?
+
 * [Up for Grabs](https://up-for-grabs.net)
 * [Git Hub's Open Source Guides](https://opensource.guide)
 * Some projects [which Red Hat works on](https://community.redhat.com/software/) (and [on GH](https://redhatofficial.github.io/#!/main)) or [Trending](https://github.com/trending)
@@ -187,23 +196,30 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 * [Common Sense Media](https://www.commonsensemedia.org)
 
 # Local Events
+
 ## Workshops
-### Lausanne, Switzerland 
+
+### Lausanne, Switzerland
+
 * [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
 * **[ScratchDay.ch](http://scratchday.ch)** et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
 
-### Zurich, Switzerland 
+### Zurich, Switzerland
+
 * [TechSpark Academy](https://techsparkacademy.ch)
 * [Google Kids Summer Camp](https://events.withgoogle.com/google-kids-summer-camp/)
 
 ## Competitions
+
 ### Switzerland (National)
+
 * [Schweizer Jugend forscht](https://sjf.ch) Concours/Wettbewerb & Studienwochen
 * [Informatik Biber](https://informatik-biber.ch/)
-### International
-* [Google Science Fair](https://www.googlesciencefair.com/)
 
+### International
+
+* [Google Science Fair](https://www.googlesciencefair.com/)
 
 # Do you know more links for this page?
 
