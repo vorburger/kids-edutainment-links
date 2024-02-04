@@ -168,6 +168,7 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 * [GCompris](http://gcompris.net) for smaller kids, in many languages, also on Android
 
 ## How to get started in Open Source?
+* [Up for Grabs](https://up-for-grabs.net)
 * [Git Hub's Open Source Guides](https://opensource.guide)
 * Some projects [which Red Hat works on](https://community.redhat.com/software/) (and [on GH](https://redhatofficial.github.io/#!/main)) or [Trending](https://github.com/trending)
 * [Red Hat's open-source](https://www.redhat.com/en/open-source)
