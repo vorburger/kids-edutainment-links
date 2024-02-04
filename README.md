@@ -42,11 +42,17 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 ### Make Computers do things (AKA "programming")
 
+* [Make & Code](https://www.microsoft.com/en-us/makecode)
+* [Hedy](https://www.hedycode.com)
 * [Made with Code](https://www.madewithcode.com)
 * [Roblox](https://www.roblox.com)  ([Parent’s Guide](https://www.connectsafely.org/roblox/))
 * [Mimo](https://mimo.org/)
 * [CodeCombat](https://codecombat.com/play)
 * [AppInventor](http://appinventor.mit.edu/explore/) - like Scratch but make Apps for Android smartphones & tablets!
+* [CoderDojo](https://coderdojo.com/en)
+* [MicroBlocks](https://microblocks.fun)
+* [GDevelop](https://gdevelop.io)
+* [Turtlestitch](https://www.turtlestitch.org)
 * [Tynker](https://www.tynker.com/hour-of-code/)
 * [Snap!](https://snap.berkeley.edu) - like Scratch, but extensible with custom JavaScript
 * [Pencil Code](http://pencilcode.net)
