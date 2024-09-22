@@ -71,6 +71,10 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Google Code-in](https://codein.withgoogle.com) annual Dec/Jan coding contest for 13-17 yr olds, from Google, with prices!
 * [Git it](https://github.com/jlord/git-it-electron) (and the [patchwork](https://github.com/jlord/patchwork))
 
+### Machine Learning
+
+* [vorburger.ch/LearningMachineLearning slides](https://www.vorburger.ch/LearningMachineLearning/)
+
 ### Minecraft
 
 * [Minetest](https://www.minetest.net) is like Minecraft, but easier to extend!
