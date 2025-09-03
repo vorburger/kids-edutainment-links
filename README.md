@@ -136,6 +136,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 #### Kits
 
 * CyberPi: [Video](https://www.youtube.com/watch?v=s004xBcasJU), the [Slides](https://docs.google.com/presentation/d/1EbA4Daq-H7e79bZpejfT4PaoNR6rpvwdcWxCWjuCF7Q/edit?usp=sharing) for the [mBlock IDE](https://ide.mblock.cc/) and [Buy](https://www.makeblock.com/products/buy-cyberpi)
+* PyBadge slides: [Intro](https://docs.google.com/presentation/d/1-s6fKfkA7Cas4X8_qEIPCvNA31BLuWihS2PEVerc1e0/edit?slide=id.g11284eee092_2_275#slide=id.g11284eee092_2_275), and [6th Grade - 2D Platformer](https://docs.google.com/presentation/d/12czwKcZi2KfmgAblvIufi_mEuD8iCRMmUSsPJZzArAU/edit?slide=id.g11284eee092_2_275#slide=id.g11284eee092_2_275) and [7th Grade - 2D Aventure](https://docs.google.com/presentation/d/1DiQZ3rmeKPsL0QMtaphltYytgH8E-LfE-w5NVYpGh1Y/edit?slide=id.g11284eee092_2_275#slide=id.g11284eee092_2_275) and [EdgeBadge](https://docs.google.com/presentation/d/1YlyqLrm6KjVB2CjZIyRFEjwrn1Jd8giHcuXYXlu5FSA/edit?slide=id.g14cfcd1f624_0_0#slide=id.g14cfcd1f624_0_0)
 * [Pockit](https://pockit.ai)
 * [micro:bit](http://microbit.org)
 * [BBC Tynker Dr. Who HighFive Inventor Coding Kit](https://www.hifiveinventor.com)
