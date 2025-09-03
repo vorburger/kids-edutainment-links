@@ -40,6 +40,10 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 ## English
 
+### AI
+
+* [Google's Teachable Machine](https://teachablemachine.withgoogle.com)
+
 ### Make Computers do things (AKA "programming")
 
 * [Make & Code](https://www.microsoft.com/en-us/makecode)
@@ -131,6 +135,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 #### Kits
 
+* CyberPi: [Video](https://www.youtube.com/watch?v=s004xBcasJU), the [Slides](https://docs.google.com/presentation/d/1EbA4Daq-H7e79bZpejfT4PaoNR6rpvwdcWxCWjuCF7Q/edit?usp=sharing) for the [mBlock IDE](https://ide.mblock.cc/) and [Buy](https://www.makeblock.com/products/buy-cyberpi)
 * [Pockit](https://pockit.ai)
 * [micro:bit](http://microbit.org)
 * [BBC Tynker Dr. Who HighFive Inventor Coding Kit](https://www.hifiveinventor.com)
