@@ -224,6 +224,7 @@ or use the simulator (Sim) in [Open Roberta Lab](https://lab.open-roberta.org)!
 * [EPFL Robots & Co Newsletter](https://actu.epfl.ch/newsletter/subscribe/318/)
 * [EPFL SPS Newsletter](https://actu.epfl.ch/newsletter/subscribe/357/)
 * **[ScratchDay.ch](http://scratchday.ch)** et [le studio avec quelques projets](https://scratch.mit.edu/studios/50246/) et [les slides](https://docs.google.com/presentation/d/1EoivR4-qXI5Y2ABrFvsHykWkPKEQCvL16z3MAkMQexU/edit#slide=id.p)
+* [L'éprouvette de l'UNIL](https://www.eprouvette-unil.ch)
 
 ### Zurich, Switzerland
 
