@@ -18,6 +18,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 
 * [Prodigy](https://www.prodigygame.com)
 * [Brilliant.org](https://brilliant.org/)
+* [Wondika](https://wondika.com) - AI-generated math story adventures for kids ages 6–11 (K–5), no ads, also available in Vietnamese
 
 ## French
 
