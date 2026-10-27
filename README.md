@@ -20,6 +20,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * [Brilliant.org](https://brilliant.org/)
 * [Wondika](https://wondika.com) - AI-generated math story adventures for kids ages 6–11 (K–5), no ads, also available in Vietnamese
 * [Fuuvix Games](https://app.fuuvix.com/games) - 28 free maths, English, science and geography games for ages 6–16 (Class 1–10), no sign-in, no ads
+* [Animal Profiles](https://animalprofiles.com/) - Free animal encyclopedia with 2,873 profiles, 245 with detailed fact files (size, diet, habitat, IUCN status, range map); browse by class, continent, habitat or diet, no ads, no sign-in
 * [Space Atlas](https://saramjh.github.io/space_atlas_student/) - Free interactive astronomy learning activities about Moon phases, Earth seasons, and the scale of the universe; best explored with a parent or teacher, no sign-in
 , adapts to each child's level
 
