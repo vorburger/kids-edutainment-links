@@ -10,7 +10,7 @@ All sites linked here are FREE to use (we list [non-free online courses on a sep
 * **[Swift Playgrounds](https://www.apple.com/swift/playgrounds/) App** (Apple only)
 * **[KhanAcademy](https://www.khanacademy.org) ([FR](https://fr.khanacademy.org)) ([DE](https://de.khanacademy.org/))**
 * [Schoolhouse](https://schoolhouse.world)
-* [Google CS First](https://csfirst.withgoogle.com)  ([FR](https://csfirst.withgoogle.com/s/fr/home), [DE](https://csfirst.withgoogle.com/s/de/home))
+* [Coddy](https://coddy.tech) ([FR](https://coddy.tech/fr), [DE](https://coddy.tech/de), [IT](https://coddy.tech/it))
 * [DuoLingo](https://www.duolingo.com)
 * [Code Club World Projects](http://projects.codeclubworld.org) Projects with Scratch, HTML, Python etc.
 
